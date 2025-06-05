@@ -7,7 +7,7 @@ I am passionate about building meaningful applications with a focus on clean, ef
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611m23rrfcq5ia55wx2z49e1e50k9mm6yze6zee09kz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+  <img https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djRtcm44YWo1cGhrMjRxYTI5Zmx6YmRqcHFtMGZ6dDVxaHN3aWpxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/giphy.gif>
 </p>
 
 ---
