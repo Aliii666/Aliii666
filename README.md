@@ -1,78 +1,89 @@
-# 👋 Hi, I'm Aliyha Mazsorra
+<div align="center">
 
-## Full Stack Developer from Ecuador 🚀
+# 🌸 ¡Hola, soy Aliyha Mazsorra! 🌸
 
-I am passionate about building meaningful applications with a focus on clean, efficient code. I'm currently learning new frameworks and improving my skills every day. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creando%20el%20futuro%20con%20código%20✨&descAlignY=55&descAlign=50" />
 
----
-
-<p align="center">
-  <img https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djRtcm44YWo1cGhrMjRxYTI5Zmx6YmRqcHFtMGZ6dDVxaHN3aWpxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/giphy.gif>
-</p>
-
----
-
-### 📫 How to reach me
-
-- **Email:** [aliyhamy04@gmail.com](mailto:aliyhamy04@gmail.com)
-- **Instagram:** [@ali_my_alv](https://instagram.com/ali_my_alv)
-
----
-
-### 🌱 What I'm currently working on
-
-- Developing projects using **Python** (Focusing on backend development)
-- Exploring **Machine Learning** and **Data Science**
-- Building **full-stack applications** using modern frameworks
-
----
-
-### 🧰 Languages and Tools
-
-I work with a variety of technologies and am always excited to learn more. Here's a list of the tools and languages I'm currently using:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+</div>
 
 <div align="center">
-  <a href="https://github.com/Aliiii666">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aliii666&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="500" />
-  </a>
+  
+## 💫 Desarrolladora Full Stack de Ecuador 🇪🇨
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNhbDRpenZiaGx1djh0Yml3Yno4MHk1aXYyMzA5bWJ0ZWwzeGM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Coding GIF" width="300" />
+
 </div>
 
 ---
 
-### 📈 Recent Activity
-
 <div align="center">
-  <a href="https://github.com/Aliiii666">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliii666&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Activity Chart" width="500" />
-  </a>
+
+## 🛠️ Tecnologías
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+<br><strong>Django</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+<br><strong>JavaScript</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 🔗 Let's Connect!
+<div align="center">
 
-- **Instagram:** [@ali_my_alv](https://instagram.com/ali_my_alv)
-- **LinkedIn:** [Aliyha Mazsorra](#) *(Add your LinkedIn URL here)*
+## 🌱 En Qué Estoy Trabajando
+
+- 🤖 **Machine Learning** y **Ciencia de Datos**
+- 🌐 **Aplicaciones Full-Stack** con Django y Flask
+- 📚 **Aprendiendo** nuevos frameworks cada día
+
+</div>
 
 ---
 
-**Fun fact:** I love to experiment with new technologies and challenge myself to build projects that push my limits. When I'm not coding, you'll find me exploring nature or creating digital artwork. 🎨
+<div align="center">
+
+## 📊 Mis Estadísticas
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliii666&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D&border_radius=15" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliii666&custom_title=Mis%20Contribuciones&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💌 Contacto
+
+<a href="mailto:aliyhamy04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/ali_my_alv">
+<img src="https://img.shields.io/badge/Instagram-C77DFF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Aliii666&label=Visitantes&color=FF6B9D&style=for-the-badge" alt="Contador de visitantes" />
+
+</div>
