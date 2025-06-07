@@ -77,7 +77,7 @@
 
 ## 💌 Contacto
 <p>Hola <3 contactame </p>
-<a href="http://wa.me/593959795677?text=Hola%20Me%20llamo%20Joes%20estudio%20en%20la%20noche%20me%20gusto%20tu%20trabajo%20y%20quisiera%20conocerte%20%3C3">
+<a href="http://wa.me/593959795677?text=Hola%20Me%20llamo%20Joes%20estudio%20en%20la%20noche%20me%20gusto%20tu%20trabajo%20y%20quisiera%20conocerte%20%3C3">Contacto</a>
 <a href="mailto:aliyhamy04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
