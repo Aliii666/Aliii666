@@ -7,10 +7,13 @@
 </div>
 
 <div align="center">
-  
-## 💫 Desarrolladora Full Stack de Ecuador 🇪🇨
+  
+💫 Desarrolladora Full Stack de Ecuador 🇪🇨
+
+<br>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNhbDRpenZiaGx1djh0Yml3Yno4MHk1aXYyMzA5bWJ0ZWwzeGM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Coding GIF" width="300" />
+
 
 </div>
 
@@ -42,6 +45,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 <br><strong>JavaScript</strong>
 </td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+<br><strong>VS Code</strong>
+</td>
 </tr>
 </table>
 
@@ -67,6 +74,8 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliii666&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D&border_radius=15" />
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliii666&custom_title=Mis%20Contribuciones&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
 
 </div>
@@ -77,13 +86,17 @@
 
 ## 💌 Contacto
 <p>Hola <3 contactame </p>
-<a href="http://wa.me/593987666639?text=Hola%20Me%20llamo%20Joes%20estudio%20en%20la%20noche%20me%20gusto%20tu%20trabajo%20y%20quisiera%20conocerte%20%3C3">Contacto</a>
+<a href="http://wa.me/593987666639?text=Hola%20Me%20llamo%20Joes%20estudio%20en%20la%20noche%20me%20gusto%20tu%20trabajo%20y%20quisiera%20conocerte%20%3C3">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 <a href="mailto:aliyhamy04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://instagram.com/ali_my_alv">
 <img src="https://img.shields.io/badge/Instagram-C77DFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Aliii666&label=Visitantes&color=FF6B9D&style=for-the-badge" alt="Contador de visitantes" />
 
